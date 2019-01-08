@@ -1,3 +1,3 @@
 ﻿public class WasherEntity {
-	private long id;
+	private long wid;
 }
